@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="[카카오 인턴] 키패드 누르기.cpp" />
     <ClCompile Include="짝지어 제거하기.cpp" />
-    <ClCompile Include="124 나라의 숫자.cpp" />
     <ClCompile Include="멀쩡한 사각형.cpp" />
-    <ClCompile Include="프린터.cpp" />
     <ClCompile Include="거리두기 확인하기.cpp" />
+    <ClCompile Include="더 맵게.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="_124 나라의 숫자.cpp" />
+    <ClCompile Include="_[카카오 인턴] 키패드 누르기.cpp" />
+    <ClCompile Include="_프린터.cpp" />
   </ItemGroup>
 </Project>
